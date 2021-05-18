@@ -1,5 +1,6 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: Science Park Study Group Summer School
+description:  2021 edition.
+show_downloads: false
+is_project_page: false
 google_analytics:
 theme: jekyll-theme-architect
