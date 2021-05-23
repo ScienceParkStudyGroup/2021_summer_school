@@ -3,7 +3,7 @@ layout: default
 title: Study Group Summer School 
 ---
 
-<img src="assets/images/beach.jpg">
+<img src="assets/images/beach.jpg" width="100%">
 
 # Welcome!
 
@@ -17,19 +17,71 @@ This Summer School will consist in a series of two-day workshops designed to tea
 
 ## Dates
 
-- Week 1: Monday 21 to Friday 25 June 2021.  
-- Week 2: Monday 28 to Friday 2 July 2021.  
+- **Week 1:** Monday 21 to Friday 25 June 2021.  
+- **Week 2:** Monday 28 to Friday 2 July 2021.  
 
-## Contents
+## Themes
+- **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
+- **Week 2**, several parallel tracks:
+	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
+	- Parallel track 2: geospatial scientist. 
+	- Parallel track 3: RNA-seq analysis.   
+You do not have to participate to all modules but, rather, you can register for one or more two-day training modules independently. 
+
+## Costs
+Free for staff from the SILS and IBED institutes (FNWI, University of Amsterdam).   
+Small costs (10-50E) to be determined for external participants.  
+
+# Schedule
+
+## Week 1: Monday 21 to Friday 25 June 
+
+| day        	| topic                                            	| instructors  	| helpers 	| Link |
+|------------	|--------------------------------------------------	|--------------	|---------	|------|
+| Monday     	| Introduction to Open Data Science with R - day 1 	| Marc Galland 	| tba     	| -    |
+| Tuesday    	| Introduction to Open Data Science with R - day 2 	| Marc Galland 	| tba     	| -    |
+| Wednesday  	| -                                                	| -            	|-         	| -    |
+| Thursday   	| Introduction to programming in Python - day 1    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
+| Friday     	| Introduction to programming in Python - day 2    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
 
 
-|     day        | week 1   | week 2 <br> genomics parallel track 1  | week 2 <br> geospatial parallel track 2       |
-|------------ |-------------------------------------------------- |---------------------------------------------  |-----------------------------------------------------  |
-| Monday      | Open Data Science with R  | Metabarcoding analysis using QIIME2   | Advanced Python for <br> Atmosphere and Ocean Scientists   |
-| Tuesday     | Open Data Science with R  | Metabarcoding analysis using QIIME2   | -                                                     |
-| Wednesday   | -                                                 | -                                             | -                                                     |
-| Thursday    | Python programming     | Introduction to RNA-seq               | Introduction to Google Earth Engine                   |
-| Friday      | Python programming    | Introduction to RNA-seq               | 
+
+<br>
+
+## Week 2: Monday 28 to Friday 2 July 
+
+### Parallel track 1: the microbiome analyst
+
+| day        	| topic                                            	| instructors  	| helpers 	|
+|------------	|--------------------------------------------------	|--------------	|---------	|
+| Monday     	| Metabarcoding analysis using QIIME 2 - day 1 	| Evelien Jongepier 	| tba     	|
+| Tuesday    	| Metabarcoding analysis using QIIME2  - day 2 	| Evelien Jongepier 	| tba     	|
+| Wednesday  	| -                                                	|              	|         	|
+| Thursday   	| Shotgun metagenomics - day 1    	| Nelly Sélem, Anouk Zancarini          	| tba     	|
+| Friday     	| Shotgun metagenomics - day 2     	| Nelly Sélem, Anouk Zancarini          	| tba     	|
+
+
+<br>
+
+### Parallel track 2: the geospatial scientist
+
+| day        	| topic                                            	| instructors  	| helpers 	| Link |
+|------------	|--------------------------------------------------	|--------------	|---------	|------|
+| Monday     	| Advanced Python for Atmosphere and Ocean Scientists 	| tba 	| tba     	| - |
+| Tuesday    	| - 	| - 	| -     	| - |
+| Wednesday  	| -    	| -     | -        	|
+| Thursday   	| Introduction to Google Earth Engine    	| Johannes van Groeve          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) |
+| Friday     	| -     	| -          	| tba     	| - |
+
+### Parallel track 3: the RNA-seq specialist 
+
+| day        	| topic                                            	| instructors  	| helpers 	|
+|------------	|--------------------------------------------------	|--------------	|---------	|
+| Monday     	| - 	| - 	| -     	|
+| Tuesday    	| - 	| - 	| -     	|
+| Wednesday  	| -    	| -     | -        	|
+| Thursday   	| Introduction to RNA-seq - day 1     	| Tijs Bliek, Marc Galland          	| tba     	|
+| Friday     	| Introduction to RNA-seq - day 2     	| Tijs Bliek, Marc Galland          	| tba     	|
 
 
 ## Registration
@@ -65,6 +117,8 @@ If you are interested
 
 
 # Teaching team
+
+[Link to teacher description](./pages/teachers.html).
 
 ## Instructors
 
