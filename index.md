@@ -70,7 +70,7 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| Advanced Python for Atmosphere and Ocean Scientists 	| tba 	| tba     	| - |
 | Tuesday    	| - 	| - 	| -     	| - |
 | Wednesday  	| -    	| -     | -        	|
-| Thursday   	| Introduction to Google Earth Engine    	| Johannes van Groeve          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) |
+| Thursday   	| Introduction to Google Earth Engine    	| Johannes De Groeve          	| Stacy Shinneman     	| [Link](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) |
 | Friday     	| -     	| -          	| tba     	| - |
 
 ### Parallel track 3: the RNA-seq specialist 
