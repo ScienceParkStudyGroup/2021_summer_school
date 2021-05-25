@@ -16,7 +16,7 @@ title: Instructors
 ## Institute for Biodiversity and Ecosystem Dynamics (IBED)
 
 * Stacy Shinneman
-* Johannes van der Groeve
+* Johannes De Groeve
 * Evelien Jongepier
 
 # External instructors
