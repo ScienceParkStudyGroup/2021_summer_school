@@ -9,7 +9,7 @@ title: Study Group Summer School
 
  This website compiles all necessary information about the workshop contents, organisation, registration information and people involved in __the first edition of the Amsterdam Science Park Study Group Summer School__.  
 
-This Summer School will consist in a series of two-day workshops designed to teach basics as well as more advanced topics in scientific programming. Whether you're just getting started in programming or feel already competent, this training event should help you to enhance the quality and efficiency of your research. Learning basic and domain-specific programming skills will not only improve the quality of your research findings, it will also promote a more Open Science as well as offering you new career perspectives in the long run.  
+This Summer School will consist of a series of two-day workshops designed to teach basics as well as more advanced topics in scientific programming. Whether you're just getting started in programming or feel already competent, this training event should help you to enhance the quality and efficiency of your research. Learning basic and domain-specific programming skills will not only improve the quality of your research findings, it will also promote a more Open Science as well as offering you new career perspectives in the long run.  
 
 
 
@@ -26,7 +26,7 @@ This Summer School will consist in a series of two-day workshops designed to tea
 	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
 	- Parallel track 2: geospatial scientist. 
 	- Parallel track 3: RNA-seq analysis.   
-You do not have to participate to all modules but, rather, you can register for one or more two-day training modules independently. 
+You do not have to participate in all modules but, rather you can register for one or more two-day training modules independently. 
 
 ## Costs
 Free for staff from the SILS and IBED institutes (FNWI, University of Amsterdam).   
@@ -98,7 +98,7 @@ Week 2 - geospatial
 # Learning tracks
 
 ## For absolute beginners
-If you're an absolute beginners, we advise you to follow either the _Open Data Science with R_ or the _Python programming_ 
+If you're an absolute beginner, we advise you to follow either the _Open Data Science with R_ or the _Python programming_ 
 workshops. 
 This will get you going and you will be able to import, transform and curate a dataset as well as creating plots to generate 
 insights on your data.  
