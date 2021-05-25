@@ -24,7 +24,7 @@ This Summer School will consist of a series of two-day workshops designed to tea
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
 - **Week 2**, several parallel tracks:
 	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
-	- Parallel track 2: geospatial scientist. 
+	- Parallel track 2: advanced Python and Google Earth Engine for geoscientists and ecologists. 
 	- Parallel track 3: RNA-seq analysis.   
 You do not have to participate in all modules but, rather you can register for one or more two-day training modules independently. 
 
@@ -63,7 +63,7 @@ Small costs (10-50E) to be determined for external participants.
 
 <br>
 
-### Parallel track 2: the geospatial scientist
+### Parallel track 2: the geoscientist and ecologist
 
 | day        	| topic                                            	| instructors  	| helpers 	| Link |
 |------------	|--------------------------------------------------	|--------------	|---------	|------|
