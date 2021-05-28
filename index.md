@@ -37,12 +37,12 @@ Small costs (10-50E) to be determined for external participants.
 ## Links to register
 - **Week 1**
 	- Introduction to Open Data Science with R workshop (Monday and Tuesday 21-22 June)
-	- Introduction to programming in Python workshop (Thursday and Friday 24-25 June) 
+	- [Introduction to programming in Python workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) (Thursday and Friday 24-25 June) 
 - **Week 2**
 	- Metabarcoding analysis using QIIME 2 workshop (Monday and Tuesday 28-29 June)
 	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
 	- Introduction to geospatial data in R (Monday and Tuesday 28-29 June)
-	- Introduction to Google Earth Engine (Thursday 1 July)
+	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
 	- Introduction to RNA-seq workshop (Thursday and Friday 1-2 July)
 
 
