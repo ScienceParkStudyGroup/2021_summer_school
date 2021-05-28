@@ -11,8 +11,6 @@ title: Study Group Summer School
 
 This Summer School will consist in a series of two-day workshops designed to teach basics as well as more advanced topics in scientific programming. Whether you're just getting started in programming or feel already competent, this training event should help you to enhance the quality and efficiency of your research. Learning basic and domain-specific programming skills will not only improve the quality of your research findings, it will also promote a more Open Science as well as offering you new career perspectives in the long run.  
 
-
-
 # Key information
 
 ## Dates
@@ -23,26 +21,32 @@ This Summer School will consist in a series of two-day workshops designed to tea
 ## Themes
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
 - **Week 2**, several parallel tracks:
-	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
-	- Parallel track 2: geospatial scientist. 
-	- Parallel track 3: RNA-seq analysis.   
+	- **Parallel track 1:** microbiome analysis, amplicon and shotgun metagenomics.
+	- **Parallel track 2:** geospatial scientist. 
+	- **Parallel track 3:** RNA-seq analysis.   
 You do not have to participate to all modules but, rather, you can register for one or more two-day training modules independently. 
 
 ## Costs
-Free for staff from the SILS and IBED institutes (FNWI, University of Amsterdam).   
+Free for staff from the SILS and IBED institutes (FNWI, UvA).   
 Small costs (10-50E) to be determined for external participants.  
+
+## Number of participants
+30 participants maximum per workshop will be allowed. 
+
+## Links to register
+1. Introduction to Open Data Science with R
 
 # Schedule
 
 ## Week 1: Monday 21 to Friday 25 June 
 
-| day        	| topic                                            	| instructors  	| helpers 	| Link |
-|------------	|--------------------------------------------------	|--------------	|---------	|------|
-| Monday     	| Introduction to Open Data Science with R - day 1 	| Marc Galland 	| tba     	| -    |
-| Tuesday    	| Introduction to Open Data Science with R - day 2 	| Marc Galland 	| tba     	| -    |
-| Wednesday  	| -                                                	| -            	|-         	| -    |
-| Thursday   	| Introduction to programming in Python - day 1    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
-| Friday     	| Introduction to programming in Python - day 2    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
+| day        	| topic                                            	| instructors  	| helpers 	|
+|------------	|--------------------------------------------------	|--------------	|---------	|
+| Monday     	| [Introduction to Open Data Science with R - day 1](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
+| Tuesday    	| [Introduction to Open Data Science with R - day 2](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
+| Wednesday  	| -                                                	| -            	|-         	|
+| Thursday   	| [Introduction to programming in Python - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
+| Friday     	| [Introduction to programming in Python - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
 
 
 
@@ -65,13 +69,13 @@ Small costs (10-50E) to be determined for external participants.
 
 ### Parallel track 2: the geospatial scientist
 
-| day        	| topic                                            	| instructors  	| helpers 	| Link |
-|------------	|--------------------------------------------------	|--------------	|---------	|------|
+| day        	| topic                                            	| instructors  	| helpers 	|
+|------------	|--------------------------------------------------	|--------------	|---------	|
 | Monday     	| Advanced Python for Atmosphere and Ocean Scientists 	| tba 	| tba     	| - |
 | Tuesday    	| - 	| - 	| -     	| - |
 | Wednesday  	| -    	| -     | -        	|
-| Thursday   	| Introduction to Google Earth Engine    	| Johannes van Groeve          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) |
-| Friday     	| -     	| -          	| tba     	| - |
+| Thursday   	| [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/)    	| Johannes van Groeve          	| tba     	| 
+| Friday     	| -     	| -          	| tba     	| 
 
 ### Parallel track 3: the RNA-seq specialist 
 
@@ -118,95 +122,31 @@ If you are interested
 
 # Teaching team
 
+<img src="assets/images/teachers.jpg" width="100%">
+
 [Link to teacher description](./pages/teachers.html).
-
-## Instructors
-
-## Helpers
 
 
 # Organisational team 
 
 ## Amsterdam Science Park Study Group
-Organisation of the Summer School + teaching
-Small community etc.
+
+FIXME
+
 
 ## Goals and values
 
-Open Science
-Empower scientists
-Lesson development 
-Local Carpentries Foundation relais.
+FIXME
 
 ## Team Science Award
-NWO Team Science 2020. 
+This Summer School is made possible by the NWO Team Science Award (2020) received by the Amsterdam Science Park Study Group.  
+More info on the [NWO website](https://www.nwo.nl/en/news/winners-announced-five-new-nwo-science-awards) and on the [University of Amsterdam news](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2020/11/new-nwo-team-science-award-for-amsterdam-science-park-study-group.html).  
 
 
-
-
-
-# Credits
+# Photo Credits
 Photo by <a href="https://unsplash.com/@elishavision?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elizeu Dias</a> on <a href="https://unsplash.com/s/photos/beach?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
+Photo by <a href="https://unsplash.com/@goian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ian Schneider</a> on <a href="https://unsplash.com/s/photos/teacher?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-
-### There's a horizontal rule below this.
-
-* * *
-
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 

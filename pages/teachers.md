@@ -5,12 +5,12 @@ title: Instructors
 
 # Local instructors (University of Amsterdam)
 
-
 ## Swammerdam Institute for Life Sciences (SILS)
 
 * Marc Galland
 * Tijs Bliek
 * Frederick White
+* Anouk Zancarini
 
 
 ## Institute for Biodiversity and Ecosystem Dynamics (IBED)
@@ -25,5 +25,6 @@ title: Instructors
 * Matthias de Hollander
 
 ## 
+
 
 [back](./)
