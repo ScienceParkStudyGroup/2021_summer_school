@@ -72,8 +72,8 @@ Small costs (10-50E) to be determined for external participants.
 
 | day        	| topic                                            	| instructors  	| helpers 	|
 |------------	|--------------------------------------------------	|--------------	|---------	|
-| Monday     	| Advanced Python for Atmosphere and Ocean Scientists 	| tba 	| tba     	| - |
-| Tuesday    	| - 	| - 	| -     	| - |
+| Monday     	| tba 	| tba 	| tba     	| - |
+| Tuesday    	| tba 	| tba 	| tba     	| - |
 | Wednesday  	| -    	| -     | -        	|
 | Thursday   	| Introduction to Google Earth Engine    	| Johannes De Groeve          	| Stacy Shinneman     	| [Link](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) |
 | Friday     	| -     	| -          	| tba     	| - |
