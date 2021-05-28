@@ -75,7 +75,7 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| tba 	| tba 	| tba     	| - |
 | Tuesday    	| tba 	| tba 	| tba     	| - |
 | Wednesday  	| -    	| -     | -        	|
-| Thursday   	| Introduction to Google Earth Engine    	| Johannes De Groeve          	| Stacy Shinneman     	| [Link](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) |
+| Thursday   	| [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/)     	| Johannes De Groeve          	| Stacy Shinneman     	| 
 | Friday     	| -     	| -          	| tba     	| - |
 
 
