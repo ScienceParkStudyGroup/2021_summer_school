@@ -36,7 +36,7 @@ Small costs (10-50E) to be determined for external participants.
 
 ## Links to register
 - **Week 1**
-	- Introduction to Open Data Science with R workshop (Monday and Tuesday 21-22 June)
+	- [Introduction to Open Data Science with R workshop](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) (Monday and Tuesday 21-22 June)
 	- [Introduction to programming in Python workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) (Thursday and Friday 24-25 June) 
 - **Week 2**
 	- Metabarcoding analysis using QIIME 2 workshop (Monday and Tuesday 28-29 June)
