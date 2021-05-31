@@ -20,7 +20,7 @@ This Summer School will consist of a series of two-day workshops designed to tea
 
 ## Themes
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
-- **Week 2:** several parallel tracks:
+- **Week 2,** several parallel tracks:
 	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
 	- Parallel track 2: geospatial data in R and Google Earth Engine for geoscientists and ecologists. 
 	- Parallel track 3: RNA-seq analysis.     
@@ -97,7 +97,7 @@ Small costs (10-50E) to be determined for external participants.
 | Thursday   	| Introduction to RNA-seq - day 1     	| Tijs Bliek, Marc Galland          	| tba     	|
 | Friday     	| Introduction to RNA-seq - day 2     	| Tijs Bliek, Marc Galland          	| tba     	|
 
-
+<br>
 
 # Learning tracks
 
@@ -117,7 +117,18 @@ If you are interested in RNA sequencing analysis, please consider following:
 <br>
 
 ## Metabarcoding microbiome
-If you are interested 
+If you are interested in metabarcoding, please consider the following:
+1. The _Programming with Python_ workshop. 
+2. Followed by the _Metabarcoding analysis using QIIME 2_ workshop. 
+
+<br>
+
+## Geospatial analysis
+If you are interested in geospatial data, please consider the following:
+1. The _Open Data Science with R_ workshop. 
+2. Followed by the _Geospatial analysis in R_ workshop.
+3. Followed by the _Google Earth Engine_ workshop (no R skills required for this workshop).  
+
 
 
 # Teaching team
