@@ -20,7 +20,7 @@ This Summer School will consist of a series of two-day workshops designed to tea
 
 ## Themes
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
-- **Week 2**, several parallel tracks:
+- **Week 2:** several parallel tracks:
 	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
 	- Parallel track 2: geospatial data in R and Google Earth Engine for geoscientists and ecologists. 
 	- Parallel track 3: RNA-seq analysis.     
@@ -39,7 +39,7 @@ Small costs (10-50E) to be determined for external participants.
 	- [Introduction to Open Data Science with R workshop](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) (Monday and Tuesday 21-22 June)
 	- [Introduction to programming in Python workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) (Thursday and Friday 24-25 June) 
 - **Week 2**
-	- Metabarcoding analysis using QIIME 2 workshop (Monday and Tuesday 28-29 June)
+	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)
 	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
 	- [Introduction to geospatial data in R](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) (Monday and Tuesday 28-29 June)
 	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
@@ -67,8 +67,8 @@ Small costs (10-50E) to be determined for external participants.
 
 | day        	| topic                                            	| instructors  	| helpers 	|
 |------------	|--------------------------------------------------	|--------------	|---------	|
-| Monday     	| Metabarcoding analysis using QIIME 2 - day 1 	| Evelien Jongepier 	| tba     	|
-| Tuesday    	| Metabarcoding analysis using QIIME2  - day 2 	| Evelien Jongepier 	| tba     	|
+| Monday     	| [Metabarcoding analysis using QIIME 2 - day 1](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
+| Tuesday    	| [Metabarcoding analysis using QIIME2  - day 2](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
 | Wednesday  	| -                                                	|              	|         	|
 | Thursday   	| Shotgun metagenomics - day 1    	| Nelly Sélem, Anouk Zancarini          	| tba     	|
 | Friday     	| Shotgun metagenomics - day 2     	| Nelly Sélem, Anouk Zancarini          	| tba     	|
