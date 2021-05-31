@@ -22,7 +22,7 @@ This Summer School will consist of a series of two-day workshops designed to tea
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
 - **Week 2**, several parallel tracks:
 	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
-	- Parallel track 2: advanced Python and Google Earth Engine for geoscientists and ecologists. 
+	- Parallel track 2: geospatial data in R and Google Earth Engine for geoscientists and ecologists. 
 	- Parallel track 3: RNA-seq analysis.     
 You do not have to participate in all modules but, rather you can register for one or more two-day training modules independently. 
 
@@ -35,7 +35,16 @@ Small costs (10-50E) to be determined for external participants.
 30 participants maximum per workshop will be allowed. 
 
 ## Links to register
-1. Introduction to Open Data Science with R
+- **Week 1**
+	- Introduction to Open Data Science with R workshop (Monday and Tuesday 21-22 June)
+	- [Introduction to programming in Python workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) (Thursday and Friday 24-25 June) 
+- **Week 2**
+	- Metabarcoding analysis using QIIME 2 workshop (Monday and Tuesday 28-29 June)
+	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
+	- Introduction to geospatial data in R (Monday and Tuesday 28-29 June)
+	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
+	- Introduction to RNA-seq workshop (Thursday and Friday 1-2 July)
+
 
 # Schedule
 
@@ -48,7 +57,6 @@ Small costs (10-50E) to be determined for external participants.
 | Wednesday  	| -                                                	| -            	|-         	|
 | Thursday   	| [Introduction to programming in Python - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
 | Friday     	| [Introduction to programming in Python - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
-
 
 
 <br>
@@ -72,10 +80,10 @@ Small costs (10-50E) to be determined for external participants.
 
 | day        	| topic                                            	| instructors  	| helpers 	|
 |------------	|--------------------------------------------------	|--------------	|---------	|
-| Monday     	| Advanced Python for Atmosphere and Ocean Scientists 	| tba 	| tba     	| - |
-| Tuesday    	| - 	| - 	| -     	| - |
+| Monday     	| [Introduction to geospatial data in R - day 1](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) 	| Stacy Shinneman 	| tba     	| - |
+| Tuesday    	| [Introduction to geospatial data in R - day 2](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) 	| Stacy Shinneman 	| tba     	| - |
 | Wednesday  	| -    	| -     | -        	|
-| Thursday   	| Introduction to Google Earth Engine    	| Johannes De Groeve          	| Stacy Shinneman     	| [Link](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) |
+| Thursday   	| [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/)     	| Johannes De Groeve          	| Stacy Shinneman     	| 
 | Friday     	| -     	| -          	| tba     	| - |
 
 
@@ -89,18 +97,6 @@ Small costs (10-50E) to be determined for external participants.
 | Thursday   	| Introduction to RNA-seq - day 1     	| Tijs Bliek, Marc Galland          	| tba     	|
 | Friday     	| Introduction to RNA-seq - day 2     	| Tijs Bliek, Marc Galland          	| tba     	|
 
-
-## Registration
-
-__Week 1:__ 
-  - Open Data Science with R (max 30 participants)
-  - Introduction to programming in Python (max 30 participants)
-Week 2:
-  - Microbiome: 
-  - Geospatial:
-  - RNA_seq: max 30 participants 
-
-<br>
 
 # Learning tracks
 
