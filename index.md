@@ -99,18 +99,6 @@ Small costs (10-50E) to be determined for external participants.
 | Friday     	| Introduction to RNA-seq - day 2     	| Tijs Bliek, Marc Galland          	| tba     	|
 
 
-## Registration
-
-__Week 1:__ 
-  - Open Data Science with R (max 30 participants)
-  - Introduction to programming in Python (max 30 participants)
-Week 2:
-  - Microbiome: 
-  - Geospatial:
-  - RNA_seq: max 30 participants 
-
-<br>
-
 # Learning tracks
 
 ## For absolute beginners
