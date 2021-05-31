@@ -55,8 +55,8 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| [Introduction to Open Data Science with R - day 1](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Tuesday    	| [Introduction to Open Data Science with R - day 2](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Wednesday  	| -                                                	| -            	|-         	|
-| Thursday   	| [Introduction to programming in Python - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
-| Friday     	| [Introduction to programming in Python - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
+| Thursday   	| [Introduction to programming in Python - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
+| Friday     	| [Introduction to programming in Python - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
 
 
 <br>
@@ -96,6 +96,7 @@ Small costs (10-50E) to be determined for external participants.
 | Wednesday  	| -    	| -     | -        	|
 | Thursday   	| Introduction to RNA-seq - day 1     	| Tijs Bliek, Marc Galland          	| tba     	|
 | Friday     	| Introduction to RNA-seq - day 2     	| Tijs Bliek, Marc Galland          	| tba     	|
+
 
 
 # Learning tracks
