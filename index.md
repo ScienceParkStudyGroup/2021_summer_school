@@ -80,8 +80,8 @@ Small costs (10-50E) to be determined for external participants.
 
 | day        	| topic                                            	| instructors  	| helpers 	|
 |------------	|--------------------------------------------------	|--------------	|---------	|
-| Monday     	| Introduction to geospatial data in R - day 1 	| Stacy Shinneman 	| tba     	| - |
-| Tuesday    	| Introduction to geospatial data in R - day 2 	| Stacy Shinneman 	| tba     	| - |
+| Monday     	| [Introduction to geospatial data in R - day 1](https://scienceparkstudygroup.github.io/2021-March-geospatial-data-workshop/) 	| Stacy Shinneman 	| tba     	| - |
+| Tuesday    	| [Introduction to geospatial data in R - day 2](https://scienceparkstudygroup.github.io/2021-March-geospatial-data-workshop/) 	| Stacy Shinneman 	| tba     	| - |
 | Wednesday  	| -    	| -     | -        	|
 | Thursday   	| [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/)     	| Johannes De Groeve          	| Stacy Shinneman     	| 
 | Friday     	| -     	| -          	| tba     	| - |
