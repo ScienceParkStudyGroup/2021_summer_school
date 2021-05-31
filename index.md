@@ -59,7 +59,6 @@ Small costs (10-50E) to be determined for external participants.
 | Friday     	| [Introduction to programming in Python - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
 
 
-
 <br>
 
 ## Week 2: Monday 28 to Friday 2 July 
