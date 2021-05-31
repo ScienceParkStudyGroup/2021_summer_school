@@ -41,7 +41,7 @@ Small costs (10-50E) to be determined for external participants.
 - **Week 2**
 	- Metabarcoding analysis using QIIME 2 workshop (Monday and Tuesday 28-29 June)
 	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
-	- Introduction to geospatial data in R (Monday and Tuesday 28-29 June)
+	- [Introduction to geospatial data in R](https://www.eventbrite.co.uk/e/157218575993) (Monday and Tuesday 28-29 June)
 	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
 	- Introduction to RNA-seq workshop (Thursday and Friday 1-2 July)
 
