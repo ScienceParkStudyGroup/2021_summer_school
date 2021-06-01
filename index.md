@@ -43,7 +43,7 @@ Small costs (10-50E) to be determined for external participants.
 	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
 	- Introduction to geospatial data in R (Monday and Tuesday 28-29 June)
 	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
-	- Introduction to RNA-seq workshop (Thursday and Friday 1-2 July)
+	- [Introduction to RNA-seq workshop](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/) (Thursday and Friday 1-2 July)
 
 
 # Schedule
@@ -94,8 +94,8 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| - 	| - 	| -     	|
 | Tuesday    	| - 	| - 	| -     	|
 | Wednesday  	| -    	| -     | -        	|
-| Thursday   	| Introduction to RNA-seq - day 1     	| Tijs Bliek, Marc Galland          	| tba     	|
-| Friday     	| Introduction to RNA-seq - day 2     	| Tijs Bliek, Marc Galland          	| tba     	|
+| Thursday   	| [Introduction to RNA-seq - day 1](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/)     	| Tijs Bliek, Marc Galland          	| tba     	|
+| Friday     	| [Introduction to RNA-seq - day 2](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/)     	| Tijs Bliek, Marc Galland          	| tba     	|
 
 
 # Learning tracks
