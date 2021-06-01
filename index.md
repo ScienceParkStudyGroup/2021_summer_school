@@ -20,7 +20,7 @@ This Summer School will consist of a series of two-day workshops designed to tea
 
 ## Themes
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
-- **Week 2**, several parallel tracks:
+- **Week 2,** several parallel tracks:
 	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
 	- Parallel track 2: geospatial data in R and Google Earth Engine for geoscientists and ecologists. 
 	- Parallel track 3: RNA-seq analysis.     
@@ -36,12 +36,12 @@ Small costs (10-50E) to be determined for external participants.
 
 ## Links to register
 - **Week 1**
-	- [Introduction to Open Data Science with R workshop](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) (Monday and Tuesday 21-22 June)
+	- [Introduction to Open Data Science with R workshop](https://www.eventbrite.co.uk/e/157499843271) (Monday and Tuesday 21-22 June)
 	- [Introduction to programming in Python workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) (Thursday and Friday 24-25 June) 
 - **Week 2**
-	- Metabarcoding analysis using QIIME 2 workshop (Monday and Tuesday 28-29 June)
+	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)
 	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
-	- Introduction to geospatial data in R (Monday and Tuesday 28-29 June)
+	- [Introduction to geospatial data in R](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) (Monday and Tuesday 28-29 June)
 	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
 	- [Introduction to RNA-seq workshop](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/) (Thursday and Friday 1-2 July)
 
@@ -55,8 +55,8 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| [Introduction to Open Data Science with R - day 1](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Tuesday    	| [Introduction to Open Data Science with R - day 2](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Wednesday  	| -                                                	| -            	|-         	|
-| Thursday   	| [Introduction to programming in Python - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
-| Friday     	| [Introduction to programming in Python - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| tba          	| tba     	|
+| Thursday   	| [Introduction to programming in Python - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
+| Friday     	| [Introduction to programming in Python - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
 
 
 <br>
@@ -67,8 +67,8 @@ Small costs (10-50E) to be determined for external participants.
 
 | day        	| topic                                            	| instructors  	| helpers 	|
 |------------	|--------------------------------------------------	|--------------	|---------	|
-| Monday     	| Metabarcoding analysis using QIIME 2 - day 1 	| Evelien Jongepier 	| tba     	|
-| Tuesday    	| Metabarcoding analysis using QIIME2  - day 2 	| Evelien Jongepier 	| tba     	|
+| Monday     	| [Metabarcoding analysis using QIIME 2 - day 1](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
+| Tuesday    	| [Metabarcoding analysis using QIIME2  - day 2](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
 | Wednesday  	| -                                                	|              	|         	|
 | Thursday   	| Shotgun metagenomics - day 1    	| Nelly Sélem, Anouk Zancarini          	| tba     	|
 | Friday     	| Shotgun metagenomics - day 2     	| Nelly Sélem, Anouk Zancarini          	| tba     	|
@@ -97,6 +97,7 @@ Small costs (10-50E) to be determined for external participants.
 | Thursday   	| [Introduction to RNA-seq - day 1](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/)     	| Tijs Bliek, Marc Galland          	| tba     	|
 | Friday     	| [Introduction to RNA-seq - day 2](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/)     	| Tijs Bliek, Marc Galland          	| tba     	|
 
+<br>
 
 # Learning tracks
 
@@ -116,7 +117,18 @@ If you are interested in RNA sequencing analysis, please consider following:
 <br>
 
 ## Metabarcoding microbiome
-If you are interested 
+If you are interested in metabarcoding, please consider the following:
+1. The _Programming with Python_ workshop. 
+2. Followed by the _Metabarcoding analysis using QIIME 2_ workshop. 
+
+<br>
+
+## Geospatial analysis
+If you are interested in geospatial data, please consider the following:
+1. The _Open Data Science with R_ workshop. 
+2. Followed by the _Geospatial analysis in R_ workshop.
+3. Followed by the _Google Earth Engine_ workshop (no R skills required for this workshop).  
+
 
 
 # Teaching team
@@ -130,12 +142,17 @@ If you are interested
 
 ## Amsterdam Science Park Study Group
 
-FIXME
-
+A vibrant community that fosters Open Science practices related to data analysis and programming for the natural sciences.
 
 ## Goals and values
 
-FIXME
+- Support students (undergraduate to post-graduate) and early career researchers in the Faculty of Science
+- Empower and provide a safe environment for learning data analysis and programming
+- Share good data science practices
+- Promote Open Science
+
+
+
 
 ## Team Science Award
 This Summer School is made possible by the NWO Team Science Award (2020) received by the Amsterdam Science Park Study Group.  
