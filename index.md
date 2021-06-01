@@ -21,9 +21,10 @@ This Summer School will consist of a series of two-day workshops designed to tea
 ## Themes
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
 - **Week 2,** several parallel tracks:
-	- Parallel track 1: microbiome analysis, amplicon and shotgun metagenomics.
-	- Parallel track 2: geospatial data in R and Google Earth Engine for geoscientists and ecologists. 
-	- Parallel track 3: RNA-seq analysis.     
+	- **Parallel track 1:** microbiome analysis, amplicon and shotgun metagenomics.
+	- **Parallel track 2:** geospatial data in R and Google Earth Engine for geoscientists and ecologists. 
+	- **Parallel track 3:** RNA-seq analysis.    
+
 You do not have to participate in all modules but, rather you can register for one or more two-day training modules independently. 
 
 
@@ -116,10 +117,11 @@ If you are interested in RNA sequencing analysis, please consider following:
 
 <br>
 
-## Metabarcoding microbiome
-If you are interested in metabarcoding, please consider the following:
+## Microbiome 
+If you are interested in amplicon-based and/or shotgun sequencing for microbiome analyses, please consider the following:
 1. The _Programming with Python_ workshop. 
 2. Followed by the _Metabarcoding analysis using QIIME 2_ workshop. 
+3. And/or followed by the _Shotgun metagenomics_ workshop. 
 
 <br>
 
@@ -150,8 +152,6 @@ A vibrant community that fosters Open Science practices related to data analysis
 - Empower and provide a safe environment for learning data analysis and programming
 - Share good data science practices
 - Promote Open Science
-
-
 
 
 ## Team Science Award
