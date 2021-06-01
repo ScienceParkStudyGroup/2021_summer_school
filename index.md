@@ -142,12 +142,17 @@ If you are interested in geospatial data, please consider the following:
 
 ## Amsterdam Science Park Study Group
 
-FIXME
-
+A vibrant community that fosters Open Science practices related to data analysis and programming for the natural sciences.
 
 ## Goals and values
 
-FIXME
+- Support students (undergraduate to post-graduate) and early career researchers in the Faculty of Science
+- Empower and provide a safe environment for learning data analysis and programming
+- Share good data science practices
+- Promote Open Science
+
+
+
 
 ## Team Science Award
 This Summer School is made possible by the NWO Team Science Award (2020) received by the Amsterdam Science Park Study Group.  
