@@ -44,7 +44,7 @@ Small costs (10-50E) to be determined for external participants.
 	- [Shotgun metagenomics workshop](https://www.eventbrite.co.uk/e/157758577151) (Thursday and Friday 1-2 July) 	
 	- [Introduction to geospatial data in R](https://www.eventbrite.co.uk/e/157218575993) (Monday and Tuesday 28-29 June)
 	- [Introduction to Google Earth Engine](https://www.eventbrite.co.uk/e/157453027243) (Thursday 1 July)
-	- [Introduction to RNA-seq workshop](https://www.eventbrite.co.uk/e/157758906135) (Thursday and Friday 1-2 July)
+	- [Introduction to RNA-seq workshop](https://www.eventbrite.fr/e/introduction-to-rna-seq-workshop-tickets-157456636037) (Thursday and Friday 1-2 July)
 
 
 # Schedule
