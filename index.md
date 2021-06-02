@@ -38,7 +38,7 @@ Small costs (10-50E) to be determined for external participants.
 # Links to register
 - **Week 1**
 	- [Introduction to Open Data Science with R workshop](https://www.eventbrite.co.uk/e/157499843271) (Monday and Tuesday 21-22 June)
-	- [Introduction to programming in Python, Unix Shell and version control in Git workshop](https://www.eventbrite.co.uk/e/157474641893) (Thursday and Friday 24-25 June) 
+	- [Introduction to programming in Python, the Shell and version control with Git workshop](https://www.eventbrite.co.uk/e/157474641893) (Thursday and Friday 24-25 June) 
 - **Week 2**
 	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)
 	- [Shotgun metagenomics workshop](https://www.eventbrite.co.uk/e/157758577151) (Thursday and Friday 1-2 July) 	
@@ -56,8 +56,8 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| [Introduction to Open Data Science with R - day 1](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Tuesday    	| [Introduction to Open Data Science with R - day 2](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Wednesday  	| -                                                	| -            	|-         	|
-| Thursday   	| [Introduction to programming in Python, Unix Shell and and version control in Git - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
-| Friday     	| [Introduction to programming in Python, Unix Shell and and version control in Git - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
+| Thursday   	| [Introduction to programming in Python, the Shell and and version control with Git - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
+| Friday     	| [Introduction to programming in Python, the Shell and and version control with Git - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
 
 
 <br>
