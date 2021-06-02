@@ -41,10 +41,10 @@ Small costs (10-50E) to be determined for external participants.
 	- [Introduction to programming in Python workshop](https://www.eventbrite.co.uk/e/157474641893) (Thursday and Friday 24-25 June) 
 - **Week 2**
 	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)
-	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
+	- [Shotgun metagenomics workshop](https://www.eventbrite.co.uk/e/157758577151) (Thursday and Friday 1-2 July) 	
 	- [Introduction to geospatial data in R](https://www.eventbrite.co.uk/e/157218575993) (Monday and Tuesday 28-29 June)
 	- [Introduction to Google Earth Engine](https://www.eventbrite.co.uk/e/157453027243) (Thursday 1 July)
-	- [Introduction to RNA-seq workshop](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/) (Thursday and Friday 1-2 July)
+	- [Introduction to RNA-seq workshop](https://www.eventbrite.co.uk/e/157758906135) (Thursday and Friday 1-2 July)
 
 
 # Schedule
