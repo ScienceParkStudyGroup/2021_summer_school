@@ -35,15 +35,15 @@ Small costs (10-50E) to be determined for external participants.
 ## Number of participants
 30 participants maximum per workshop will be allowed. 
 
-## Links to register
+# Links to register
 - **Week 1**
 	- [Introduction to Open Data Science with R workshop](https://www.eventbrite.co.uk/e/157499843271) (Monday and Tuesday 21-22 June)
-	- [Introduction to programming in Python workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) (Thursday and Friday 24-25 June) 
+	- [Introduction to programming in Python workshop](https://www.eventbrite.co.uk/e/157474641893) (Thursday and Friday 24-25 June) 
 - **Week 2**
 	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)
 	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
-	- [Introduction to geospatial data in R](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) (Monday and Tuesday 28-29 June)
-	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
+	- [Introduction to geospatial data in R](https://www.eventbrite.co.uk/e/157218575993) (Monday and Tuesday 28-29 June)
+	- [Introduction to Google Earth Engine](https://www.eventbrite.co.uk/e/157453027243) (Thursday 1 July)
 	- [Introduction to RNA-seq workshop](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/) (Thursday and Friday 1-2 July)
 
 
