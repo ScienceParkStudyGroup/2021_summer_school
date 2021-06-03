@@ -41,7 +41,7 @@ Small costs (10-50E) to be determined for external participants.
 	- [Introduction to programming in Python workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) (Thursday and Friday 24-25 June) 
 - **Week 2**
 	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)
-	- Shotgun metagenomics workshop (Thursday and Friday 1-2 July) 	
+	- Data processing and visualization for metagenomics workshop (Thursday and Friday 1-2 July) 	
 	- [Introduction to geospatial data in R](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) (Monday and Tuesday 28-29 June)
 	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
 	- [Introduction to RNA-seq workshop](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/) (Thursday and Friday 1-2 July)
@@ -71,8 +71,8 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| [Metabarcoding analysis using QIIME 2 - day 1](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
 | Tuesday    	| [Metabarcoding analysis using QIIME2  - day 2](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
 | Wednesday  	| -                                                	|              	|         	|
-| Thursday   	| Shotgun metagenomics - day 1    	| Nelly Sélem, Anouk Zancarini          	| tba     	|
-| Friday     	| Shotgun metagenomics - day 2     	| Nelly Sélem, Anouk Zancarini          	| tba     	|
+| Thursday   	| Data processing and visualization for metagenomics - day 1   	| Anouk Zancarini          	| tba     	|
+| Friday     	| Data processing and visualization for metagenomics - day 2   	| Anouk Zancarini          	| tba     	|
 
 
 <br>
@@ -121,7 +121,7 @@ If you are interested in RNA sequencing analysis, please consider following:
 If you are interested in amplicon-based and/or shotgun sequencing for microbiome analyses, please consider the following:
 1. The _Programming with Python_ workshop. 
 2. Followed by the _Metabarcoding analysis using QIIME 2_ workshop. 
-3. And/or followed by the _Shotgun metagenomics_ workshop. 
+3. And/or followed by the _Data processing and visualization for metagenomics_ workshop. 
 
 <br>
 
