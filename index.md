@@ -35,16 +35,17 @@ Small costs (10-50E) to be determined for external participants.
 ## Number of participants
 30 participants maximum per workshop will be allowed. 
 
-## Links to register
+# Links to register
 - **Week 1**
 	- [Introduction to Open Data Science with R workshop](https://www.eventbrite.co.uk/e/157499843271) (Monday and Tuesday 21-22 June)
-	- [Introduction to programming in Python workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) (Thursday and Friday 24-25 June) 
+	- [Introduction to programming in Python, the Shell and version control with Git workshop](https://www.eventbrite.co.uk/e/157474641893) (Thursday and Friday 24-25 June) 
 - **Week 2**
 	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)
-	- Data processing and visualization for metagenomics workshop (Thursday and Friday 1-2 July) 	
-	- [Introduction to geospatial data in R](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) (Monday and Tuesday 28-29 June)
-	- [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) (Thursday 1 July)
-	- [Introduction to RNA-seq workshop](https://scienceparkstudygroup.github.io/2021-07-01-RNA-seq-workshop-summer-school/) (Thursday and Friday 1-2 July)
+	- [Data processing and visualization for metagenomics workshop](https://www.eventbrite.co.uk/e/157758577151) (Thursday and Friday 1-2 July) 	
+	- [Introduction to geospatial data in R](https://www.eventbrite.co.uk/e/157218575993) (Monday and Tuesday 28-29 June)
+	- [Introduction to Google Earth Engine](https://www.eventbrite.co.uk/e/157453027243) (Thursday 1 July)
+	- [Introduction to RNA-seq workshop](https://www.eventbrite.fr/e/introduction-to-rna-seq-workshop-tickets-157456636037) (Thursday and Friday 1-2 July)
+>>>>>>> 069ac0de820d20f55a0902ef1460a1005fb063bf
 
 
 # Schedule
@@ -56,8 +57,8 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| [Introduction to Open Data Science with R - day 1](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Tuesday    	| [Introduction to Open Data Science with R - day 2](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Wednesday  	| -                                                	| -            	|-         	|
-| Thursday   	| [Introduction to programming in Python - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
-| Friday     	| [Introduction to programming in Python - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
+| Thursday   	| [Introduction to programming in Python, the Shell and and version control with Git - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
+| Friday     	| [Introduction to programming in Python, the Shell and and version control with Git - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
 
 
 <br>
@@ -71,8 +72,8 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| [Metabarcoding analysis using QIIME 2 - day 1](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
 | Tuesday    	| [Metabarcoding analysis using QIIME2  - day 2](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
 | Wednesday  	| -                                                	|              	|         	|
-| Thursday   	| Data processing and visualization for metagenomics - day 1   	| Anouk Zancarini          	| tba     	|
-| Friday     	| Data processing and visualization for metagenomics - day 2   	| Anouk Zancarini          	| tba     	|
+| Thursday   	| [Data processing and visualization for metagenomics - day 1](https://scienceparkstudygroup.github.io/2021-07-01-shotgun-metagenomics-workshop-summer-school/)   	| Anouk Zancarini          	| tba     	|
+| Friday     	| [Data processing and visualization for metagenomics - day 2](https://scienceparkstudygroup.github.io/2021-07-01-shotgun-metagenomics-workshop-summer-school/)   	| Anouk Zancarini          	| tba     	|
 
 
 <br>
