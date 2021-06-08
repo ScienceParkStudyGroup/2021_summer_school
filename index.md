@@ -69,8 +69,8 @@ Small costs (10-50E) to be determined for external participants.
 
 | day        	| topic                                            	| instructors  	| helpers 	|
 |------------	|--------------------------------------------------	|--------------	|---------	|
-| Monday     	| [Metabarcoding analysis using QIIME 2 - day 1](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
-| Tuesday    	| [Metabarcoding analysis using QIIME2  - day 2](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| tba     	|
+| Monday     	| [Metabarcoding analysis using QIIME 2 - day 1](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| Fred White     	|
+| Tuesday    	| [Metabarcoding analysis using QIIME2  - day 2](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| Fred White     	|
 | Wednesday  	| -                                                	|              	|         	|
 | Thursday   	| [Data processing and visualization for metagenomics - day 1](https://scienceparkstudygroup.github.io/2021-07-01-shotgun-metagenomics-workshop-summer-school/)   	| Anouk Zancarini          	| tba     	|
 | Friday     	| [Data processing and visualization for metagenomics - day 2](https://scienceparkstudygroup.github.io/2021-07-01-shotgun-metagenomics-workshop-summer-school/)   	| Anouk Zancarini          	| tba     	|
