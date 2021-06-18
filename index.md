@@ -21,9 +21,9 @@ This Summer School will consist of a series of two-day workshops designed to tea
 ## Themes
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
 - **Week 2,** several parallel tracks:
-	- **Parallel track 1:** microbiome analysis, amplicon and shotgun metagenomics.
-	- **Parallel track 2:** geospatial data in R and Google Earth Engine for geoscientists and ecologists. 
-	- **Parallel track 3:** RNA-seq analysis.    
+	- **Parallel track 1:** microbiome analysis, amplicon metagenomics.
+	- **Parallel track 2:** Google Earth Engine for geoscientists and ecologists. 
+	- **Parallel track 3:** RNA-seq analysis    
 
 You do not have to participate in all modules but, rather you can register for one or more two-day training modules independently. 
 
@@ -40,9 +40,7 @@ Small costs (10-50E) to be determined for external participants.
 	- [Introduction to Open Data Science with R workshop](https://www.eventbrite.co.uk/e/157499843271) (Monday and Tuesday 21-22 June)
 	- [Introduction to programming in Python, the Shell and version control with Git workshop](https://www.eventbrite.co.uk/e/157474641893) (Thursday and Friday 24-25 June) 
 - **Week 2**
-	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)
-	- [Data processing and visualization for metagenomics workshop](https://www.eventbrite.co.uk/e/157758577151) (Thursday and Friday 1-2 July) 	
-	- [Introduction to geospatial data in R](https://www.eventbrite.co.uk/e/157218575993) (Monday and Tuesday 28-29 June)
+	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)	
 	- [Introduction to Google Earth Engine](https://www.eventbrite.co.uk/e/157453027243) (Thursday 1 July)
 	- [Introduction to RNA-seq workshop](https://www.eventbrite.fr/e/introduction-to-rna-seq-workshop-tickets-157456636037) (Thursday and Friday 1-2 July)
 
@@ -71,9 +69,6 @@ Small costs (10-50E) to be determined for external participants.
 |------------	|--------------------------------------------------	|--------------	|---------	|
 | Monday     	| [Metabarcoding analysis using QIIME 2 - day 1](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| Fred White     	|
 | Tuesday    	| [Metabarcoding analysis using QIIME2  - day 2](https://www.eventbrite.co.uk/e/157477014991) 	| Evelien Jongepier 	| Fred White     	|
-| Wednesday  	| -                                                	|              	|         	|
-| Thursday   	| [Data processing and visualization for metagenomics - day 1](https://scienceparkstudygroup.github.io/2021-07-01-shotgun-metagenomics-workshop-summer-school/)   	| Anouk Zancarini          	| tba     	|
-| Friday     	| [Data processing and visualization for metagenomics - day 2](https://scienceparkstudygroup.github.io/2021-07-01-shotgun-metagenomics-workshop-summer-school/)   	| Anouk Zancarini          	| tba     	|
 
 
 <br>
@@ -82,11 +77,8 @@ Small costs (10-50E) to be determined for external participants.
 
 | day        	| topic                                            	| instructors  	| helpers 	|
 |------------	|--------------------------------------------------	|--------------	|---------	|
-| Monday     	| [Introduction to geospatial data in R - day 1](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) 	| Stacy Shinneman 	| tba     	| - |
-| Tuesday    	| [Introduction to geospatial data in R - day 2](https://scienceparkstudygroup.github.io/2021-summer-geospatial-data-workshop/) 	| Stacy Shinneman 	| tba     	| - |
-| Wednesday  	| -    	| -     | -        	|
 | Thursday   	| [Introduction to Google Earth Engine](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/)     	| Johannes De Groeve          	| Stacy Shinneman     	| 
-| Friday     	| -     	| -          	| tba     	| - |
+
 
 
 ### Parallel track 3: the RNA-seq specialist 
@@ -129,8 +121,7 @@ If you are interested in amplicon-based and/or shotgun sequencing for microbiome
 ## Geospatial analysis
 If you are interested in geospatial data, please consider the following:
 1. The _Open Data Science with R_ workshop. 
-2. Followed by the _Geospatial analysis in R_ workshop.
-3. Followed by the _Google Earth Engine_ workshop (no R skills required for this workshop).  
+2. Followed by the _Google Earth Engine_ workshop (no R skills required for this workshop).  
 
 
 
