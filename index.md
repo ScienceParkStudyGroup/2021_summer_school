@@ -21,8 +21,8 @@ This Summer School will consist of a series of two-day workshops designed to tea
 ## Themes
 - **Week 1:** programming in R and Python: from absolute beginner to competent practitioner.
 - **Week 2,** several parallel tracks:
-	- **Parallel track 1:** microbiome analysis, amplicon metagenomics.
-	- **Parallel track 2:** Google Earth Engine for geoscientists and ecologists. 
+	- **Parallel track 1:** microbiome analysis, amplicon metagenomics
+	- **Parallel track 2:** Google Earth Engine for geoscientists and ecologists
 	- **Parallel track 3:** RNA-seq analysis    
 
 You do not have to participate in all modules but, rather you can register for one or more two-day training modules independently. 
@@ -43,6 +43,7 @@ Small costs (10-50E) to be determined for external participants.
 	- [Metabarcoding analysis using QIIME 2 workshop](https://www.eventbrite.co.uk/e/157477014991) (Monday and Tuesday 28-29 June)	
 	- [Introduction to Google Earth Engine](https://www.eventbrite.co.uk/e/157453027243) (Thursday 1 July)
 	- [Introduction to RNA-seq workshop](https://www.eventbrite.fr/e/introduction-to-rna-seq-workshop-tickets-157456636037) (Thursday and Friday 1-2 July)
+	- Shotgun metagenomics and geospatial data in R workshops have been postponed until October or November 2021.
 
 <br>
 
@@ -55,8 +56,8 @@ Small costs (10-50E) to be determined for external participants.
 | Monday     	| [Introduction to Open Data Science with R - day 1](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Tuesday    	| [Introduction to Open Data Science with R - day 2](https://scienceparkstudygroup.github.io/2021-06-21-open-r-workshop-summer-school/) 	| Marc Galland 	| tba   |
 | Wednesday  	| -                                                	| -            	|-         	|
-| Thursday   	| [Introduction to programming in Python, the Shell and and version control with Git - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
-| Friday     	| [Introduction to programming in Python, the Shell and and version control with Git - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
+| Thursday   	| [Introduction to programming in Python, the Shell and and Git version control - day 1](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
+| Friday     	| [Introduction to programming in Python, the Shell and and Git version control - day 2](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    	| Marc Galland          	| tba     	|
 
 
 <br>
